@@ -1,0 +1,20 @@
+{
+  "name": "@vdian/v-component_share-v2",
+  "version": "2.4.5",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^3.1.0",
+    "gulp-clean-css": "^2.0.7",
+    "gulp-less": "^3.1.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-replace": "^0.6.1",
+    "gulp-uglify": "^1.5.3"
+  },
+  "scripts": {
+    "dev": "rm -rf build && gulp watch --dev",
+    "daily": "gulp build --daily",
+    "pre": "gulp build --pre",
+    "prod": "gulp build --prod"
+  },
+  "main": "src/index.js"
+}

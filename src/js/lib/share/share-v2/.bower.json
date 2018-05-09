@@ -1,0 +1,40 @@
+{
+  "name": "share-v2",
+  "description": "Share Component",
+  "authors": [
+    "kongjiacong"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "share",
+    "mobile",
+    "ui"
+  ],
+  "moduleType": [
+    "commonjs"
+  ],
+  "homepage": "",
+  "private": false,
+  "ignore": [
+    "gulpfile.js",
+    ".gitignore",
+    ".npmignore",
+    "node_modules",
+    "bower_components",
+    "demo",
+    "流程图.jpg",
+    "shareV2组件技术方案.md",
+    "ChangeLog.md"
+  ],
+  "dependencies": {},
+  "_release": "afb81b9d7d",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "afb81b9d7d35a538f1d0ac716ab9924620bd904b"
+  },
+  "_source": "https://gitlab.vdian.net/v-components/share-v2.git",
+  "_target": "*",
+  "_originalSource": "https://gitlab.vdian.net/v-components/share-v2.git",
+  "_direct": true
+}
